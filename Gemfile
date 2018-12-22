@@ -66,3 +66,5 @@ gem 'devise'
 
 gem 'activeadmin'
 gem 'carrierwave'
+gem 'cancancan'
+gem 'activeadmin_froala_editor'
