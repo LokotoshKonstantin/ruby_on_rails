@@ -16,20 +16,4 @@ ActiveAdmin.register Post do
     column :created_at
     actions
   end
-
-  # show do
-  #   attributes_table do
-  #     row :title
-  #     row :created_at
-  #   end
-  # end
-  #
-  # form do |f|
-  #   f.inputs do
-  #     f.input :title
-  #     f.input :text, as: :froala_editor
-  #   end
-  #   f.actions
-  # end
-
 end
